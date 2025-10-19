@@ -1,0 +1,10 @@
+/java-scheduler/target/
+/cpp-scheduler/build/
+/*.class
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.pyc
+screenshots/*.png
+*.exe
